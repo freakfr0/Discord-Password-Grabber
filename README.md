@@ -18,7 +18,8 @@
 
 
 # Discord Password Grabber 
-
+[![version](https://img.shields.io/badge/version-1.0-gray)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
+![license](https://img.shields.io/badge/license--gray)
 This is a stub for the Doenerium malware. It is an Electron app that is obfuscated and built using `electron-builder`.
 
 ## Installation
