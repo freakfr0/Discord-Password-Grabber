@@ -1,4 +1,4 @@
-
+8n
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfrv4&label=Profile%20views&color=0e75b6&style=flat" alt="freakfrv4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/freakfrv4" target="blank"><img src="https://img.shields.io/twitter/follow/Freak.fr?logo=twitter&style=for-the-badge" alt="freakfrv4" /></a> </p>
@@ -18,8 +18,8 @@
 
 
 # Discord Password Grabber 
-[![version](https://img.shields.io/badge/version-1.0-gray)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
-![license](https://img.shields.io/badge/license--gray)
+[![version](https://img.shields.io/badge/version-1.0-yellow)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
+![license](https://img.shields.io/badge/license-Titan-yellow)
 This is a stub for the Doenerium malware. It is an Electron app that is obfuscated and built using `electron-builder`.
 
 ## Installation
